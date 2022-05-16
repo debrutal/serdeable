@@ -18,4 +18,6 @@ class SerdeableTest {
         Assertions.assertTrue(application.isRunning());
     }
 
+
+
 }
