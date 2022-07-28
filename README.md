@@ -1,2 +1,2 @@
 ## Sample application
-for demoing an issue with serdeablr and problem json.
+for demoing an issue with serdeable and problem json.
